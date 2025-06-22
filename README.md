@@ -10,7 +10,7 @@ DURATION: 4 WEEKS
 
 MENTOR:Kaptan
 
-## VOICE-ASSISTANT
+## VOICE-ASSISTANT:
 A Voice Assistant is an intelligent software agent designed to understand, interpret, and respond to human voice commands. Utilizing advanced technologies such as natural language processing (NLP), speech recognition, and artificial intelligence (AI), voice assistants enable users to interact with devices and services hands-free, providing a convenient and intuitive way to access information, perform tasks, and control smart environments.
 
 At its core, a voice assistant listens to a user's spoken input, converts the audio signals into text using speech-to-text technology, and then processes the command to deliver a meaningful response or action. These assistants are embedded in various platforms, including smartphones, smart speakers, computers, vehicles, and even household appliances, making them widely accessible across everyday life.

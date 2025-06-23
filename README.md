@@ -49,4 +49,7 @@ Well-known voice assistants include Apple’s Siri, Amazon Alexa, Google Assista
 Benefits and Challenges
 Voice assistants enhance convenience, accessibility (especially for individuals with disabilities), and efficiency in daily tasks. They also enable hands-free operation, improving safety during activities like driving.
 
-However, challenges such as privacy concerns, security risks, and occasional misunderstandings or inaccuracies in recognizing commands still exist. Developers continuously work to address these issues by improving encryption, user controls, and the intelligence of voice assistant systems
+However, challenges such as privacy concerns, security risks, and occasional misunderstandings or inaccuracies in recognizing commands still exist. Developers continuously work to address these issues by improving encryption, user controls, and the intelligence of voice assistant systems.
+
+## OUTPUT:-
+![Image](https://github.com/user-attachments/assets/9a50a3ec-cf7c-4920-90f3-b13fd1e0474d)
